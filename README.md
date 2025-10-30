@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ghanyhidayatullah@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y9AqC7xPzCXcycd0LFRHksoUWv_OWLCQ/view?usp=drive_link](https://drive.google.com/file/d/1y9AqC7xPzCXcycd0LFRHksoUWv_OWLCQ/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1y9AqC7xPzCXcycd0LFRHksoUWv_OWLCQ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
