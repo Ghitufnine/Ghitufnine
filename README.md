@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghitufnine&label=Profile%20views&color=0e75b6&style=flat" alt="ghitufnine" /> </p>
 
-- 🌱 I’m currently learning **Java Springboot**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Laravel, Codeigniter, Golang**
 
